@@ -109,6 +109,14 @@ As a Business Analyst, I:
 
 ---
 
+## 📸 Dashboard Previews
+
+### HR-Attrition Analysis Dashboard 
+![HR-Attritio Analysis Dashboard]()
+
+---
+
+
 ## 🚀 Getting Started
 
 1. Clone or download this repo  
