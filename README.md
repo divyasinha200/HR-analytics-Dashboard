@@ -112,7 +112,7 @@ As a Business Analyst, I:
 ## 📸 Dashboard Previews
 
 ### HR-Attrition Analysis Dashboard 
-![HR-Attritio Analysis Dashboard]()
+![HR-Attritio Analysis Dashboard](https://github.com/divyasinha200/HR-analytics-Dashboard/blob/main/Attrition%20Analysis%20dashboard.png)
 
 ---
 
